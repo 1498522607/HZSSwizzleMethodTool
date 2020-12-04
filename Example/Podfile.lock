@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HZSSwizzleMethodTool (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HZSSwizzleMethodTool (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HZSSwizzleMethodTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HZSSwizzleMethodTool: a375ec0d390566b412514172c63477cc7cfaf060
+
+PODFILE CHECKSUM: 1a3b023247ab8e2f455e77d5198912e2a6b2e2a6
+
+COCOAPODS: 1.9.3

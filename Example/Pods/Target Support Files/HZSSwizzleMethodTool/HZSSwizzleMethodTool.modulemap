@@ -1,0 +1,6 @@
+framework module HZSSwizzleMethodTool {
+  umbrella header "HZSSwizzleMethodTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
