@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HZSSwizzleMethodTool'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of HZSSwizzleMethodTool.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/1498522607@qq.com/HZSSwizzleMethodTool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1498522607@qq.com' => 'huangzushu@ds.cn' }
+  s.author           = { '1498522607@qq.com' => '古德猫宁' }
   s.source           = { :git => 'https://github.com/1498522607@qq.com/HZSSwizzleMethodTool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

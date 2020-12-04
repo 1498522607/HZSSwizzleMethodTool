@@ -22,7 +22,7 @@ pod 'HZSSwizzleMethodTool'
 
 ## Author
 
-1498522607@qq.com, huangzushu@ds.cn
+1498522607@qq.com, 古德猫宁
 
 ## License
 
