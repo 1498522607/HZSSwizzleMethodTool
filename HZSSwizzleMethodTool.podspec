@@ -25,7 +25,7 @@ TODO: 方法交换工具
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1498522607@qq.com' => '古德猫宁' }
-  s.source           = { :git => 'https://github.com/1498522607@qq.com/HZSSwizzleMethodTool.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/1498522607/HZSSwizzleMethodTool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
